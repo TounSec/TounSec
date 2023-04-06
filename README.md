@@ -42,8 +42,8 @@ Hi everyone, I'm *TounSec*, I'm a **French** passionate about **cybersecurity** 
 - **In Progress: 🟠**
 - **Not Started: 🔴**
 
-    - **H4ckSen4l🟠** *H4ckSen4l is a tool inspired by [arsenal](https://github.com/Orange-Cyberdefense/arsenal) project to quickly generate and launch command lines with a **GUI** version and a **TUI***
-    - **CredLinker🔴** *CredLinker is a storage tool for managing credentials found during a pentest mission with a **TUI***
+    - **H4ckSen4l🔴** *H4ckSen4l is a tool inspired by [arsenal](https://github.com/Orange-Cyberdefense/arsenal) project to quickly generate and launch command lines with a **GUI** version and a **TUI***
+    - **CredLinker🟠** *CredLinker is a storage tool for managing credentials found during a pentest mission with a **TUI***
 
 <br>
 

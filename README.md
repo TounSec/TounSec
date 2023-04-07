@@ -3,7 +3,7 @@
 
 ## 📝 Description: 📝
 
-Hi everyone, I'm *TounSec*, I'm a **French** passionate about **cybersecurity** with particular attention to **low-level** but I learn overall all the offensive side.
+Hi everyone, I'm *TounSec*, A **French** passionate about **cybersecurity** with particular attention to **low-level** but I learn overall all the offensive side.
 
 <br>
 

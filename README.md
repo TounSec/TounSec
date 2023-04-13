@@ -25,6 +25,7 @@ Hi everyone, I'm *TounSec*, I'm a **French** passionate about **cybersecurity** 
 - [Root-me](https://www.root-me.org/TounSec?lang=fr#3fd1443b41bc78f13bcba0b18d2203cc): My **Root-me** profile
 - [Hackthebox](https://app.hackthebox.com/profile/overview): My **Hackthebox** profile
 - [Cryptohack](https://cryptohack.org/user/TounSec/): My **Cryptohack** profile
+- [Codewars](https://www.codewars.com/users/TounSec): My **Codewars** profile
 
 <br>
 
@@ -46,6 +47,8 @@ Hi everyone, I'm *TounSec*, I'm a **French** passionate about **cybersecurity** 
     - **CredLinker🟠** *CredLinker is a storage tool for managing credentials found during a pentest mission with a **TUI** in **Rust***
 
 <br>
+
+![Codewars Badge](https://www.codewars.com/users/TounSec/badges/large)
 
 ![Python Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

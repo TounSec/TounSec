@@ -48,6 +48,10 @@ Hi everyone, I'm *TounSec*, A **French** passionate about **cybersecurity** with
 
 <br>
 
+![Hackthebox Badge](https://www.hackthebox.eu/badge/image/1005197)
+
+![Tryhackme Badge](https://tryhackme-badges.s3.amazonaws.com/hackethique.png)
+
 ![Codewars Badge](https://www.codewars.com/users/TounSec/badges/large)
 
 ![Python Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)

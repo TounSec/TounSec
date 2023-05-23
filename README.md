@@ -13,7 +13,6 @@ Hi everyone, I'm *TounSec*, A **French** passionate about **cybersecurity** with
 - *Radio-Frequency*
 - *Hardware*
 - *Offensive tool programming*
-- *Malware Development*
 - *Arduino programming*
 - *Exploit Development*
 - *Reverse Engineering*

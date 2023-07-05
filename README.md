@@ -33,6 +33,7 @@ Hi everyone, I'm *TounSec*, A **French** passionate about **cybersecurity** with
 
 - [Twitter](https://twitter.com/Hackethique1)
 - [Discord](https://discord.com/users/280654626360000513)
+- <tounsec-garbage@proton.me>
 
 <br>
 

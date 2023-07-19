@@ -46,7 +46,7 @@ Hi everyone, I'm *TounSec*, A **French** passionate about **cybersecurity** with
 
 | Status | Name | Language | Description |
 | ------ | -------- | ---- | ----------- |
-| 🟠 | **SecureHash-Tool** | *Rust* | `SecureHash-Tool` is a tool that allows to hash a text with multiple hashing algorithms**CLI** |
+| 🟠 | **SecureHash-Tool** | *Rust* | `SecureHash-Tool` is a tool that allows to hash a text with multiple hashing algorithms **CLI** |
 
 
 <br>

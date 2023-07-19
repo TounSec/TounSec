@@ -46,9 +46,8 @@ Hi everyone, I'm *TounSec*, A **French** passionate about **cybersecurity** with
 
 | Status | Name | Language | Description |
 | ------ | -------- | ---- | ----------- |
-| 🟠 | **Tk-ToDoList** | *Python3* | `Tk-ToDoList` is a simple application for task management with a **GUI** |
-| 🔴 | **CredLinker** | *Rust* | `CredLinker` is a storage tool for managing credentials found during a pentest mission with a **TUI** |
-| 🔴 | **H4ckSen4l** | *C + Rust* | `H4ckSen4l` is a tool inspired by [arsenal](https://github.com/Orange-Cyberdefense/arsenal) project to quickly generate and launch command lines with a **GUI** and **TUI** |
+| 🟠 | **SecureHash-Tool** | *Rust* | `SecureHash-Tool` is a tool that allows to hash a text with multiple hashing algorithms**CLI** |
+
 
 <br>
 
